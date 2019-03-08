@@ -7,3 +7,5 @@ Hello everyone! This is the "Friendly Collab Party" folder. This project is used
 - Learn about versions
 - Lean about collaboration
 - Work with github
+
+Emma has added some information here :)
